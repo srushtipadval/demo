@@ -23,7 +23,7 @@ th {
 .head {
 	background-color: rgb(68, 3, 3);
 	color: grey;
-	padding: 15px 0 15px 0;
+	padding: 20px 0 20px 0;
 }
 form, .content {
 	width: 30%;
@@ -31,10 +31,10 @@ form, .content {
 	padding: 20px;
 	border: 1px solid black;
 	background: white;
-	border-radius: 0px 0px 6px 6px;
+	border-radius: 0px 0px 10px 10px;
 }
 .input {
-	margin: 6px 0px 6px 0px;
+	margin: 10px 0px 10px 0px;
 }
 
 .input label {
@@ -45,13 +45,13 @@ form, .content {
 .input input {
 	height: 15px;
 	width: 53%;
-	padding: 6px 6px;
-	font-size: 15px;
+	padding: 10px 10px;
+	font-size: 16px;
 	border-radius: 5px;
-	border: 1px solid gray;
+	border: 1px black;
 }
 .btn {
-	padding: 25px;
+	padding: 20px;
 	font-size: 15px;
 	color: black;
 	background: peachpuff;
