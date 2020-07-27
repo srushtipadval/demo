@@ -51,16 +51,16 @@ form, .content {
 	border: 1px black;
 }
 .btn {
-	padding: 20px;
+	padding: 18px;
 	font-size: 15px;
 	color: black;
 	background: peachpuff;
-	border: none;
+	border: 1 px solid black;
 	/*border-radius: 5px;*/
 }
 header {
-	width: 30%;
-	margin: 50px auto 0px;
+	width: 20%;
+	margin: 35px auto 0px;
 	color: black;
 	background: peachpuff;
 	text-align: center;
