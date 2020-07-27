@@ -21,9 +21,9 @@ th {
 	display: inline-block;
 }
 .head {
-	background-color: peachpuff;
+	background-color: rgb(68, 3, 3);
 	color: grey;
-	padding: 20px 0 20px 0;
+	padding: 15px 0 15px 0;
 }
 form, .content {
 	width: 30%;
@@ -51,7 +51,7 @@ form, .content {
 	border: 1px solid gray;
 }
 .btn {
-	padding: 20px;
+	padding: 25px;
 	font-size: 15px;
 	color: black;
 	background: peachpuff;
