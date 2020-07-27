@@ -76,6 +76,10 @@ body, html {
   margin: 0;
 
 }
+p {
+	text-align: center;
+	font-size: 20px;
+}
 
 * {
   box-sizing: border-box;
